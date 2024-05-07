@@ -1,1 +1,2 @@
-# practice
+# practice 
+get init
